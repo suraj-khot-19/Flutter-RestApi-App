@@ -22,7 +22,7 @@ Data After GET Operation
 <br/>
 
 <li>
-Data Before POST Operation
+Data After POST Operation
 <img src="https://github.com/suraj-khot-19/img/blob/main/curd3.png" alt="post"></li>
 <br/>
 <br/>
